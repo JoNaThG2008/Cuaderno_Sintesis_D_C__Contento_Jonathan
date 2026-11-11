@@ -41,9 +41,9 @@
 <div align="center">
   
 ---
-
-| Unidad | Descripción | Acceder |
-|:------:|:------------|:-------:|
-| 📁 Unidad 1 |  | 👉 [Abrir](https://github.com/JoNaThG2008/Resumen_Unidad_1_Dise-o_de_Circuitos/blob/028a5c48f40c1e1c13a2cd4beb5dbf0504f56cf4/Unidad%201/README.md) |
+- [⚡ Unidad 1](https://github.com/JoNaThG2008/Resumen_Unidad_1_Dise-o_de_Circuitos/blob/028a5c48f40c1e1c13a2cd4beb5dbf0504f56cf4/Unidad%201/README.md)
+- [⚡ Unidad 2](...)
+- [⚡ Unidad 3](...)
+- [⚡ Unidad 4](...)
 
 </div>
