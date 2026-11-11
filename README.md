@@ -1,4 +1,5 @@
-# Resumen_Unidad_1_Dise-o_de_Circuitos
+# Resumen_Unidad_1_Diseño_de_Circuitos
+
 # Unidad 1: Análisis de lógica combinacional con diseño clásico
 
 ## Descripción general
@@ -9,11 +10,12 @@ A lo largo de las primeras cuatro semanas se trabaja desde conceptos básicos ha
 
 ## Contenidos por semana
 
-### Semana 1: Introducción a la lógica combinacional
+<details>
+<summary><strong>SEMANA 1: Introducción a la lógica combinacional</strong></summary>
 
 Se estudian los conceptos básicos de los sistemas digitales y la forma en que una computadora representa la información mediante dos estados: 0 y 1.
 
-**Temas principales:**
+### Temas principales
 
 - Sistemas numéricos: binario, octal y hexadecimal.
 - Conversión entre sistemas numéricos.
@@ -23,13 +25,18 @@ Se estudian los conceptos básicos de los sistemas digitales y la forma en que u
 - Compuertas lógicas: AND, OR, NOT, NAND, NOR, XOR y XNOR.
 - Tablas de verdad y funcionamiento de las compuertas.
 
-**Actividad práctica:** Reconocer el entorno de simulación Logisim-evolution y comprobar el funcionamiento de las compuertas lógicas mediante sus tablas de verdad.
+### Actividad práctico-experimental (APE)
 
-### Semana 2: Álgebra de Boole y formas canónicas
+Reconocer el entorno de simulación Logisim-evolution y comprobar el funcionamiento de las compuertas lógicas mediante sus tablas de verdad.
+
+</details>
+
+<details>
+<summary><strong>SEMANA 2: Álgebra de Boole y formas canónicas</strong></summary>
 
 Se aprende a representar el funcionamiento de un circuito mediante expresiones booleanas. A partir de un problema, se identifican las entradas y salidas, se construye una tabla de verdad y se obtiene la función lógica correspondiente.
 
-**Temas principales:**
+### Temas principales
 
 - Postulados y teoremas del álgebra de Boole.
 - Leyes de De Morgan.
@@ -38,13 +45,18 @@ Se aprende a representar el funcionamiento de un circuito mediante expresiones b
 - Minitérminos y maxitérminos.
 - Formas canónicas y notación compacta.
 
-**Actividad práctica:** Traducir un requerimiento a una tabla de verdad, obtener sus formas canónicas y simplificar la expresión booleana. Después, construir y simular ambas versiones del circuito para comprobar que producen los mismos resultados y comparar la cantidad de compuertas utilizadas.
+### Actividad práctico-experimental (APE)
 
-### Semana 3: Mapas de Karnaugh y optimización de circuitos
+Traducir un requerimiento a una tabla de verdad, obtener sus formas canónicas y simplificar la expresión booleana. Después, construir y simular ambas versiones del circuito para comprobar que producen los mismos resultados y comparar la cantidad de compuertas utilizadas.
+
+</details>
+
+<details>
+<summary><strong>SEMANA 3: Mapas de Karnaugh y optimización de circuitos</strong></summary>
 
 Se estudia cómo simplificar funciones booleanas mediante mapas de Karnaugh. Este método permite organizar los valores de una tabla de verdad y encontrar expresiones más sencillas, reduciendo la cantidad de compuertas necesarias para construir un circuito.
 
-**Temas principales:**
+### Temas principales
 
 - Mapas de Karnaugh de tres y cuatro variables.
 - Agrupación de unos y ceros.
@@ -53,13 +65,18 @@ Se estudia cómo simplificar funciones booleanas mediante mapas de Karnaugh. Est
 - Universalidad de las compuertas NAND y NOR.
 - Implementación de circuitos utilizando una sola familia de compuertas.
 
-**Actividad práctica:** Simplificar una función lógica de cuatro variables mediante mapas de Karnaugh, incluyendo condiciones indiferentes. Luego, simular el circuito original y el simplificado, implementar la versión mínima con compuertas NAND y comparar el ahorro de componentes.
+### Actividad práctico-experimental (APE)
 
-### Semana 4: Circuitos aritméticos combinacionales
+Simplificar una función lógica de cuatro variables mediante mapas de Karnaugh, incluyendo condiciones indiferentes. Luego, simular el circuito original y el simplificado, implementar la versión mínima con compuertas NAND y comparar el ahorro de componentes.
+
+</details>
+
+<details>
+<summary><strong>SEMANA 4: Circuitos aritméticos combinacionales</strong></summary>
 
 Se estudia cómo construir circuitos digitales capaces de realizar operaciones matemáticas, principalmente sumas y restas binarias. También se analiza cómo se conectan varios bloques para trabajar con números de más bits y cómo se comparan sus valores.
 
-**Temas principales:**
+### Temas principales
 
 - Semisumador (Half Adder).
 - Sumador completo (Full Adder).
@@ -69,9 +86,13 @@ Se estudia cómo construir circuitos digitales capaces de realizar operaciones m
 - Comparadores de magnitud.
 - Retardo de propagación de los circuitos.
 
-**Actividad práctica:** Construir y simular un semisumador y un sumador completo utilizando compuertas lógicas. Después, conectar varios sumadores para formar un sumador paralelo de cuatro bits, comprobar operaciones binarias y verificar el funcionamiento de la resta mediante complemento a dos.
+### Actividad práctico-experimental (APE)
 
-## Herramientas de trabajo utilizadas en la Unidad&#x20;
+Construir y simular un semisumador y un sumador completo utilizando compuertas lógicas. Después, conectar varios sumadores para formar un sumador paralelo de cuatro bits, comprobar operaciones binarias y verificar el funcionamiento de la resta mediante complemento a dos.
+
+</details>
+
+## Herramientas de trabajo utilizadas en la Unidad
 
 Durante estas semanas se utiliza principalmente:
 
@@ -85,5 +106,3 @@ Durante estas semanas se utiliza principalmente:
 Para la elaboración de este documento se utilizó ChatGPT como herramienta de apoyo para organizar la información, resumir los contenidos de la Unidad 1 y mejorar la redacción de los temas correspondientes a las semanas 1, 2, 3 y 4.
 
 La información generada fue revisada y contrastada con el sílabo de la asignatura y las guías de actividades práctico-experimentales (APE). La inteligencia artificial se utilizó como apoyo y no como sustituto del estudio, análisis y comprensión de los contenidos por parte del estudiante.
-
-##
