@@ -44,7 +44,7 @@
 ## 📂 Contenido del cuaderno
 | Unidad | Acceso |
 |:---:|:---:|
-| Unidad 1 | ➜ [Ver contenido](https://github.com/JoNaThG2008/Resumen_Unidad_1_Dise-o_de_Circuitos/blob/028a5c48f40c1e1c13a2cd4beb5dbf0504f56cf4/Unidad%201/README.md) |
+| Unidad 1 | ➜ [Ver contenido]() |
 | Unidad 2 | ➜ [Ver contenido]() |
 | Unidad 3 | ➜ [Ver contenido]() |
 | Unidad 4 | ➜ [Ver contenido]() |
