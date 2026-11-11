@@ -46,7 +46,9 @@ Finalmente, se experimentó con una entrada sin conectar para observar cómo se 
 
 ###  Imagenes de la actividad
 <img width="548" height="210" alt="Captura de pantalla 2026-11-10 200642" src="https://github.com/user-attachments/assets/26f64784-367f-41d2-8261-058af9fc4ccc" />
+
 #### Compuertas Lógicas 
+
 <img width="670" height="258" alt="Captura de pantalla 2026-11-10 201133" src="https://github.com/user-attachments/assets/4f3496d5-233b-4f59-ac31-48fa29ad1697" />
 
 <img width="442" height="284" alt="Captura de pantalla 2026-11-10 201201" src="https://github.com/user-attachments/assets/9585c57a-020c-48a3-827f-6469b80fd105" />
