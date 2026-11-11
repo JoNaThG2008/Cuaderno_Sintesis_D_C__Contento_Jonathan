@@ -45,7 +45,7 @@
 | Unidad | Acceso |
 |:---:|:---:|
 | Unidad 1 | ➜ [Ver contenido](https://github.com/JoNaThG2008/Resumen_Unidad_1_Dise-o_de_Circuitos/tree/2b491c17c3f771932b6bcfb940b4760c7b324151/Unidad%201) |
-| Unidad 2 | ➜ [Ver contenido]() |
+| Unidad 2 | ➜ [Ver contenido](https://github.com/JoNaThG2008/Resumen_Unidad_1_Dise-o_de_Circuitos/tree/0acdfbb1522134015a5cbd6ecbe2c6675ce09867/Unidad%202) |
 | Unidad 3 | ➜ [Ver contenido]() |
 | Unidad 4 | ➜ [Ver contenido]() |
 
