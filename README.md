@@ -12,7 +12,7 @@ Las actividades práctico-experimentales permitieron aplicar los conocimientos a
 
 ---
 
-## 📂 Contenidos por semana
+## 📂 Contenidos por semana (Click en cada semana para ver el contenido)
 
 <details>
 <summary><strong>🔵 SEMANA 1: Introducción a la lógica combinacional</strong></summary>
@@ -43,6 +43,12 @@ En esta semana se trabajó con el simulador Logisim-evolution para reconocer su 
 Se construyeron y comprobaron las siete compuertas lógicas, comparando sus tablas de verdad predichas con los resultados obtenidos durante la simulación. También se analizaron los circuitos integrados 74LS08 (AND) y 74LS02 (NOR), consultando sus hojas de datos para identificar la distribución de sus pines y verificar su funcionamiento.
 
 Finalmente, se experimentó con una entrada sin conectar para observar cómo se representa un estado lógico indefinido. Con esta actividad se comprendió la importancia de verificar las conexiones y evitar entradas flotantes en los circuitos digitales.
+
+###  Imagenes de la actividad
+<p align="center">
+  <img src="<img width="548" height="210" alt="imagen" src="https://github.com/user-attachments/assets/cbd788ba-0005-45be-be82-ee0628046422" />
+" width="450">
+</p>
 
 </details>
 
@@ -175,6 +181,6 @@ Durante estas semanas se utilizaron principalmente las siguientes herramientas y
 
 ## 🤖 Declaración de uso de inteligencia artificial
 
-Para la elaboración de este documento se utilizó ChatGPT como herramienta de apoyo para organizar la información, resumir los contenidos de la Unidad 1 y mejorar la redacción de los temas correspondientes a las semanas 1, 2, 3 y 4.
+Para la elaboración de este documento se utilizó ChatGPT como herramienta de apoyo para organizar la información, un mejor manejo de GitHub y mejorar la REDACCIÓN de los temas correspondientes a las semanas 1, 2, 3 y 4.
 
-La información generada fue revisada y contrastada con el sílabo de la asignatura y las guías de actividades práctico-experimentales (APE). La inteligencia artificial se utilizó como apoyo y no como sustituto del estudio, análisis y comprensión de los contenidos por parte del estudiante.
+La información generada fue revisada y contrastada con los temas tratados en la asignatura y las guías de actividades práctico-experimentales (APE). La inteligencia artificial se utilizó como apoyo y no como sustituto del estudio, análisis y comprensión de los contenidos por parte del estudiante.
