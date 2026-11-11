@@ -44,15 +44,10 @@ Se construyeron y comprobaron las siete compuertas lógicas, comparando sus tabl
 
 Finalmente, se experimentó con una entrada sin conectar para observar cómo se representa un estado lógico indefinido. Con esta actividad se comprendió la importancia de verificar las conexiones y evitar entradas flotantes en los circuitos digitales.
 
-###  Imagenes de la actividad
+###  Imágenes de la actividad
 <img width="548" height="210" alt="Captura de pantalla 2026-11-10 200642" src="https://github.com/user-attachments/assets/26f64784-367f-41d2-8261-058af9fc4ccc" />
-
-#### Compuertas Lógicas 
-
 <img width="670" height="258" alt="Captura de pantalla 2026-11-10 201133" src="https://github.com/user-attachments/assets/4f3496d5-233b-4f59-ac31-48fa29ad1697" />
-
 <img width="442" height="284" alt="Captura de pantalla 2026-11-10 201201" src="https://github.com/user-attachments/assets/9585c57a-020c-48a3-827f-6469b80fd105" />
-
 <img width="593" height="134" alt="Captura de pantalla 2026-11-10 201220" src="https://github.com/user-attachments/assets/a6065a88-5e42-4c50-bc45-34dcd58ba745" />
 
 </details>
@@ -88,6 +83,9 @@ Primero se identificaron las variables de entrada y la salida, y se construyó l
 Después, se construyeron en Logisim-evolution dos versiones del circuito: una utilizando la expresión canónica y otra con la expresión simplificada. Se comprobaron las ocho combinaciones posibles de entrada y se verificó que ambas versiones produjeran los mismos resultados.
 
 Finalmente, se comparó la cantidad de compuertas, circuitos integrados y niveles lógicos necesarios para cada implementación. Con esta actividad se comprendió cómo pasar de un problema a una función booleana y cómo la simplificación permite construir circuitos menos complejos y con menor cantidad de componentes.
+
+### Imágenes de la actividad
+
 
 </details>
 
