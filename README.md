@@ -46,9 +46,14 @@ Finalmente, se experimentó con una entrada sin conectar para observar cómo se 
 
 ###  Imagenes de la actividad
 <p align="center">
-  <img src="<img width="548" height="210" alt="imagen" src="https://github.com/user-attachments/assets/cbd788ba-0005-45be-be82-ee0628046422" />
-" width="450">
+  <img src="<img width="548" height="210" alt="Captura de pantalla 2026-11-10 200642" src="https://github.com/user-attachments/assets/382ac65b-1d1c-428d-9128-792672b6b6e3" />" width="450">
 </p>
+
+
+<p align="center">
+  <img src=" " width="450">
+</p>
+
 
 </details>
 
