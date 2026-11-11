@@ -1,14 +1,10 @@
 # Resumen de la Unidad 1 – Diseño de Circuitos
 
-# ⚡ Unidad 1: Análisis de lógica combinacional con diseño clásico
+#  Unidad 1: Análisis de lógica combinacional con diseño clásico
 
 ## 📝 Descripción general
 
-En esta unidad se estudiaron los fundamentos de la lógica digital y el diseño de circuitos combinacionales. Se aprendió cómo representar información mediante sistemas numéricos, interpretar los valores binarios y utilizar las compuertas lógicas para realizar diferentes operaciones.
-
-Durante las cuatro semanas se trabajó con el álgebra de Boole, las formas canónicas y los mapas de Karnaugh para diseñar y simplificar funciones lógicas. Finalmente, se abordó la construcción de circuitos aritméticos capaces de realizar operaciones de suma y resta binaria.
-
-Las actividades práctico-experimentales permitieron aplicar los conocimientos adquiridos mediante el diseño, construcción y simulación de circuitos en Logisim-evolution, verificando su funcionamiento y comparando diferentes formas de implementación.
+En esta unidad se estudiaron los fundamentos de la lógica digital y el diseño de circuitos combinacionales, trabajando con sistemas numéricos, compuertas lógicas, álgebra de Boole y mapas de Karnaugh para diseñar y simplificar funciones. También se aprendió a construir circuitos aritméticos de suma y resta binaria, aplicando estos conocimientos en las actividades prácticas mediante el diseño y la simulación de circuitos en Logisim-evolution.
 
 ---
 
@@ -213,17 +209,6 @@ Con esta actividad se comprendió cómo se construyen los circuitos aritméticos
 </details>
 
 ---
-
-##  Herramientas de trabajo utilizadas
-
-Durante estas semanas se utilizaron principalmente las siguientes herramientas y recursos:
-
-- **Logisim-evolution:** para diseñar, construir y simular circuitos digitales, comprobar tablas de verdad y verificar el funcionamiento de las implementaciones.
-- **Compuertas lógicas:** para construir circuitos combinacionales y representar las operaciones booleanas.
-- **Circuitos integrados de la familia 74LS:** para estudiar sus funciones, distribución de pines y posibilidades de implementación.
-- **Hojas de datos (Datasheets):** para consultar las características y conexiones de los circuitos integrados utilizados.
-- **Tablas de verdad:** para representar y comprobar el comportamiento de las funciones lógicas.
-- **Mapas de Karnaugh:** para simplificar expresiones booleanas y optimizar los circuitos.
 
 ## 🤖 Declaración de uso de inteligencia artificial
 
