@@ -17,7 +17,7 @@ Las actividades práctico-experimentales permitieron aplicar los conocimientos a
 <details>
 <summary><strong>🔵 SEMANA 1: Introducción a la lógica combinacional</strong></summary>
 
-###  Contenido de la semnana
+###  Contenido de la semana
 
 Durante esta semana se estudiaron los fundamentos de los sistemas digitales y la manera en que los dispositivos electrónicos representan y procesan información mediante dos estados lógicos: 0 y 1.
 
@@ -55,7 +55,7 @@ Finalmente, se experimentó con una entrada sin conectar para observar cómo se 
 <details>
 <summary><strong>🟢 SEMANA 2: Álgebra de Boole y formas canónicas</strong></summary>
 
-###  Contenido de la semnana
+###  Contenido de la semana
 
 Durante esta semana se estudió el álgebra de Boole como herramienta matemática para representar y simplificar el comportamiento de los circuitos digitales. Se analizaron sus postulados, propiedades y principales teoremas, aprendiendo a transformar expresiones booleanas sin modificar su funcionamiento lógico.
 
@@ -102,7 +102,7 @@ Finalmente, se comparó la cantidad de compuertas, circuitos integrados y nivele
 <details>
 <summary><strong>🟡 SEMANA 3: Mapas de Karnaugh y optimización de circuitos</strong></summary>
 
-###  Contenido de la semnana
+###  Contenido de la semana
 
 Durante esta semana se estudiaron los mapas de Karnaugh como un método gráfico para simplificar funciones booleanas. Se aprendió a organizar los valores de una tabla de verdad en mapas de tres y cuatro variables, utilizando agrupaciones de unos o ceros para obtener expresiones lógicas más sencillas.
 
@@ -138,13 +138,22 @@ Con esta actividad se comprendió cómo los mapas de Karnaugh permiten reducir l
 
 
 ### Imágenes de la actividad
+#### Diseño en papel del circuito
+
+<img width="548" height="605" alt="Captura de pantalla 2026-11-10 203150" src="https://github.com/user-attachments/assets/91054b34-6b2e-4cf7-ae2f-44a3b9e817cd" />
+<img width="521" height="681" alt="Captura de pantalla 2026-11-10 203243" src="https://github.com/user-attachments/assets/8bedfa21-3bd9-4621-b627-ebbcc121ca12" />
+<img width="690" height="388" alt="Captura de pantalla 2026-11-10 203258" src="https://github.com/user-attachments/assets/24986b9c-73e3-4f94-b46c-1e895b451899" />
+
+#### Circuito en Logisim-evolution
+
+<img width="1080" height="734" alt="Captura de pantalla 2026-11-10 203339" src="https://github.com/user-attachments/assets/3e21d666-994f-4e06-96ea-720a4caffc44" />
 
 </details>
 
 <details>
 <summary><strong>🔴 SEMANA 4: Circuitos aritméticos combinacionales</strong></summary>
 
-###  Contenido de la semnana
+###  Contenido de la semana
 
 Durante esta semana se estudiaron los circuitos aritméticos combinacionales, encargados de realizar operaciones matemáticas mediante señales binarias. Se analizaron los semisumadores y sumadores completos, comprendiendo cómo se generan los bits de suma y los acarreos durante una operación.
 
@@ -182,6 +191,8 @@ Con esta actividad se comprendió cómo se construyen los circuitos aritméticos
 
 
 ### Imágenes de la actividad
+
+
 
 </details>
 
