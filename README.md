@@ -24,10 +24,10 @@ LOS RECURSOS NATURALES NO RENOVABLES<br>
 
 <br><br>
 
-**Docente:** Ing. Luis Darío Sinche Cueva
+## Docente: Ing. Luis Darío Sinche Cueva
 <br>
 
-**Estudiante:** Jonathan Contento
+# Estudiante: Jonathan Gerardo Contento Cuenca
 
 <br><br><br>
 
