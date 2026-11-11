@@ -216,3 +216,5 @@ Para la elaboración de este documento se utilizó ChatGPT como herramienta de a
 
 La información generada fue revisada y contrastada con los temas tratados en la asignatura y las guías de actividades práctico-experimentales (APE). La inteligencia artificial se utilizó como apoyo y no como sustituto del estudio, análisis y comprensión de los contenidos por parte del estudiante.
 
+| 👉 [ Volver al inicio]() |
+
