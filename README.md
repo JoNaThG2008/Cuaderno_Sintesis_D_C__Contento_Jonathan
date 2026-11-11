@@ -36,7 +36,7 @@ Además, se analizaron las siete compuertas lógicas fundamentales: AND, OR, NOT
 - Compuertas lógicas: AND, OR, NOT, NAND, NOR, XOR y XNOR.
 - Tablas de verdad y niveles lógicos.
 
-###  Actividad práctico-experimental (APE 01)
+###  Resumen de la actividad práctico-experimental (APE 01)
 
 En esta semana se trabajó con el simulador Logisim-evolution para reconocer su entorno de desarrollo y aprender a utilizar sus principales herramientas, como pines de entrada, fuentes de nivel lógico, sondas y LED.
 
@@ -74,7 +74,7 @@ Se comprendió que un requerimiento expresado en lenguaje natural puede converti
 - Formas canónicas: suma de productos (SOP) y producto de sumas (POS).
 - Notación compacta mediante Σm y ΠM.
 
-###  Actividad práctico-experimental (APE 02)
+###  Resumen de la actividad práctico-experimental (APE 02)
 
 En esta semana se trabajó con el diseño de un circuito comparador de magnitud, cuyo objetivo era determinar si un número binario de dos bits era mayor que otro número representado con un bit.
 
@@ -124,7 +124,7 @@ Finalmente, se abordó la universalidad de las compuertas NAND y NOR, comprendie
 - Implementación de circuitos con una sola familia de compuertas.
 - Optimización de componentes y niveles lógicos.
 
-###  Actividad práctico-experimental (APE 03)
+###  Resumen de la actividad práctico-experimental (APE 03)
 
 En esta semana se trabajó con el diseño de un circuito para identificar números primos del 0 al 9 representados mediante código BCD de cuatro bits. El objetivo era encender un LED cuando el número ingresado correspondiera a un número primo: 2, 3, 5 o 7.
 
@@ -177,7 +177,7 @@ Finalmente, se analizó el retardo de propagación, comprendiendo que el tiempo 
 - Detección de desbordamiento.
 - Retardo de propagación.
 
-###  Actividad práctico-experimental (APE 04)
+###  Resumen de la actividad práctico-experimental (APE 04)
 
 En esta semana se trabajó con la implementación de circuitos sumadores en Logisim-evolution. Primero se construyó un semisumador utilizando una compuerta XOR para obtener la suma y una AND para generar el acarreo. Después, se diseñó un sumador completo mediante dos semisumadores y una compuerta OR, comprobando sus ocho combinaciones posibles de entrada.
 
@@ -191,7 +191,23 @@ Con esta actividad se comprendió cómo se construyen los circuitos aritméticos
 
 
 ### Imágenes de la actividad
+#### Semisumador
 
+<img width="280" height="106" alt="Captura de pantalla 2026-11-10 204110" src="https://github.com/user-attachments/assets/3105bf62-1e9e-4b39-8932-af68a48ba57b" />
+
+#### Sumador Completo 
+
+<img width="708" height="200" alt="Captura de pantalla 2026-11-10 204329" src="https://github.com/user-attachments/assets/4542f4b1-d1b5-4da3-bf1c-97060d276316" />
+
+#### Sumas
+
+<img width="757" height="218" alt="Captura de pantalla 2026-11-10 204542" src="https://github.com/user-attachments/assets/355a035c-fd0d-4e24-a6c4-b47388ea236a" />
+<img width="1074" height="541" alt="Captura de pantalla 2026-11-10 204345" src="https://github.com/user-attachments/assets/ac2937e5-c55b-4a2b-9bea-7f3e5c257252" />
+
+#### Restas
+
+<img width="772" height="214" alt="Captura de pantalla 2026-11-10 204559" src="https://github.com/user-attachments/assets/a4b0e086-f4a6-41ba-b237-603da7040773" />
+<img width="1086" height="401" alt="Captura de pantalla 2026-11-10 204400" src="https://github.com/user-attachments/assets/2d60b97c-a6bb-41ff-bdc8-a73728524eb8" />
 
 
 </details>
