@@ -17,7 +17,7 @@ Las actividades práctico-experimentales permitieron aplicar los conocimientos a
 <details>
 <summary><strong>🔵 SEMANA 1: Introducción a la lógica combinacional</strong></summary>
 
-###  Desarrollo de los contenidos
+###  Contenido de la semnana
 
 Durante esta semana se estudiaron los fundamentos de los sistemas digitales y la manera en que los dispositivos electrónicos representan y procesan información mediante dos estados lógicos: 0 y 1.
 
@@ -55,7 +55,7 @@ Finalmente, se experimentó con una entrada sin conectar para observar cómo se 
 <details>
 <summary><strong>🟢 SEMANA 2: Álgebra de Boole y formas canónicas</strong></summary>
 
-###  Desarrollo de los contenidos
+###  Contenido de la semnana
 
 Durante esta semana se estudió el álgebra de Boole como herramienta matemática para representar y simplificar el comportamiento de los circuitos digitales. Se analizaron sus postulados, propiedades y principales teoremas, aprendiendo a transformar expresiones booleanas sin modificar su funcionamiento lógico.
 
@@ -85,14 +85,24 @@ Después, se construyeron en Logisim-evolution dos versiones del circuito: una u
 Finalmente, se comparó la cantidad de compuertas, circuitos integrados y niveles lógicos necesarios para cada implementación. Con esta actividad se comprendió cómo pasar de un problema a una función booleana y cómo la simplificación permite construir circuitos menos complejos y con menor cantidad de componentes.
 
 ### Imágenes de la actividad
+#### Circuito en  Logisim-evolution
 
+<img width="562" height="306" alt="Captura de pantalla 2026-11-10 202435" src="https://github.com/user-attachments/assets/107e3228-5448-4269-8022-79196fb6cbf3" />
+
+#### Tabla de verdad
+
+<img width="586" height="338" alt="Captura de pantalla 2026-11-10 202454" src="https://github.com/user-attachments/assets/c87d21b6-bb97-4186-8837-4a0e83d12bcc" />
+
+#### Comparación de salida de Circuitos 
+
+<img width="621" height="358" alt="Captura de pantalla 2026-11-10 202649" src="https://github.com/user-attachments/assets/a8db1fa5-e361-4d7a-b316-c6fc2d2086e3" />
 
 </details>
 
 <details>
 <summary><strong>🟡 SEMANA 3: Mapas de Karnaugh y optimización de circuitos</strong></summary>
 
-###  Desarrollo de los contenidos
+###  Contenido de la semnana
 
 Durante esta semana se estudiaron los mapas de Karnaugh como un método gráfico para simplificar funciones booleanas. Se aprendió a organizar los valores de una tabla de verdad en mapas de tres y cuatro variables, utilizando agrupaciones de unos o ceros para obtener expresiones lógicas más sencillas.
 
@@ -126,12 +136,15 @@ También se incorporó una compuerta XOR para comparar las salidas de las versio
 
 Con esta actividad se comprendió cómo los mapas de Karnaugh permiten reducir la complejidad de las funciones lógicas y cómo las condiciones indiferentes pueden aprovecharse para disminuir la cantidad de componentes necesarios. Además, se comprobó que una función simplificada puede implementarse utilizando exclusivamente compuertas NAND.
 
+
+### Imágenes de la actividad
+
 </details>
 
 <details>
 <summary><strong>🔴 SEMANA 4: Circuitos aritméticos combinacionales</strong></summary>
 
-###  Desarrollo de los contenidos
+###  Contenido de la semnana
 
 Durante esta semana se estudiaron los circuitos aritméticos combinacionales, encargados de realizar operaciones matemáticas mediante señales binarias. Se analizaron los semisumadores y sumadores completos, comprendiendo cómo se generan los bits de suma y los acarreos durante una operación.
 
@@ -166,6 +179,9 @@ También se adaptó el circuito para realizar operaciones de suma y resta median
 Finalmente, se analizó la detección del desbordamiento mediante la expresión V = C3 ⊕ C4 y se estimó el retardo de propagación producido por la conexión en cadena de los sumadores.
 
 Con esta actividad se comprendió cómo se construyen los circuitos aritméticos combinacionales, cómo se transmite el acarreo entre etapas y cómo un mismo circuito puede realizar sumas y restas mediante señales de control.
+
+
+### Imágenes de la actividad
 
 </details>
 
