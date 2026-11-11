@@ -17,7 +17,7 @@
 
 <br><br>
 
-### Primer Ciclo:
+### Segundo Ciclo:
 
 2026
 
