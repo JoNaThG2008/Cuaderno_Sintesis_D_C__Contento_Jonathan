@@ -216,5 +216,5 @@ Para la elaboración de este documento se utilizó ChatGPT como herramienta de a
 
 La información generada fue revisada y contrastada con los temas tratados en la asignatura y las guías de actividades práctico-experimentales (APE). La inteligencia artificial se utilizó como apoyo y no como sustituto del estudio, análisis y comprensión de los contenidos por parte del estudiante.
 
-| 👉 [ Volver al inicio]() |
+| 👉 [ Volver al inicio](https://github.com/JoNaThG2008/Resumen_Unidad_1_Dise-o_de_Circuitos/blob/2147ecf8f9e6fb412667523e8039051a7c733b7b/README.md#computaci%C3%B3n) |
 
