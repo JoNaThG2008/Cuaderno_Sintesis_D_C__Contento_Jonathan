@@ -45,6 +45,6 @@ LOS RECURSOS NATURALES NO RENOVABLES<br>
 
 | Unidad | Descripción | Acceder |
 |:------:|:------------|:-------:|
-| 📁 Unidad 1 |  | 👉 [Abrir](./Unidad1/) |
+| 📁 Unidad 1 |  | 👉 [Abrir](https://github.com/JoNaThG2008/Resumen_Unidad_1_Dise-o_de_Circuitos/blob/97eea2c9b0b40d3d5a9c7bba7c0c0e083de6d86a/Unidad%201/README.md) |
 
 </div>
