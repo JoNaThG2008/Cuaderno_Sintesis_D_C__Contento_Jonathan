@@ -45,7 +45,7 @@
 | Unidad | Acceso |
 |:---:|:---:|
 | Unidad 1 | ➜ [Ver contenido](https://github.com/JoNaThG2008/Resumen_Unidad_1_Dise-o_de_Circuitos/tree/82a93b9c75f98fd63d9d00e0b2715cdb7e249ab8/Unidad%201) |
-| Unidad 2 | ➜ [Ver contenido](https://github.com/JoNaThG2008/Resumen_Unidad_1_Dise-o_de_Circuitos/tree/0acdfbb1522134015a5cbd6ecbe2c6675ce09867/Unidad%202) |
+| Unidad 2 | ➜ [Ver contenido](https://github.com/JoNaThG2008/Resumen_Unidad_1_Dise-o_de_Circuitos/tree/3b83439c701537d77ee0746ed8199ccf1967fad6/Unidad%202) |
 | Unidad 3 | ➜ [Ver contenido](https://github.com/JoNaThG2008/Resumen_Unidad_1_Dise-o_de_Circuitos/tree/97440d5057b7ef8fa1ee1918a156304c3f2807e4/Unidad%203) |
 | Unidad 4 | ➜ [Ver contenido](https://github.com/JoNaThG2008/Resumen_Unidad_1_Dise-o_de_Circuitos/tree/bba08b42ebe17a6065919de6a9b3c485c5cf764e/Unidad%204) |
 
