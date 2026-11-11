@@ -10,11 +10,11 @@ LOS RECURSOS NATURALES NO RENOVABLES<br>
 
 ---
 
-#  COMPUTACIÓN
+##  COMPUTACIÓN
 
 ---
 
-## Matemáticas Discretas
+## Diseño de Circuitos 
 
 <br><br>
 
@@ -24,8 +24,7 @@ LOS RECURSOS NATURALES NO RENOVABLES<br>
 
 <br><br>
 
-**Docente:** Ing. Mario Enrique Cueva Hurtado
-
+**Docente:** Ing. Luis Darío Sinche Cueva
 <br>
 
 **Estudiante:** Jonathan Contento
@@ -38,18 +37,14 @@ LOS RECURSOS NATURALES NO RENOVABLES<br>
 
 ---
                                                     
-# Portafolio de Matemáticas Discretas
+# Cuaderno de síntesis  
 
 <div align="center">
   
 ---
 
-### 📂 Contenido del Portafolio
-
 | Unidad | Descripción | Acceder |
 |:------:|:------------|:-------:|
-| 📁 Unidad 1 | Fundamentos de la logica proposicional | 👉 [Abrir](./Unidad1/) |
-| 📁 Unidad 2 | Álgebra Booleana | 👉 [Abrir](./Unidad2/) |
-| 📁 Unidad 3 | Teoria de Grafos | 👉 [Abrir](./Unidad3/) |
+| 📁 Unidad 1 |  | 👉 [Abrir](./Unidad1/) |
 
 </div>
