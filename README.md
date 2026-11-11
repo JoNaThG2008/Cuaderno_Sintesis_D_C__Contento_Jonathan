@@ -27,11 +27,11 @@ LOS RECURSOS NATURALES NO RENOVABLES<br>
 ## Docente: Ing. Luis Darío Sinche Cueva
 <br>
 
-# Estudiante: Jonathan Gerardo Contento Cuenca
+## Estudiante: Jonathan Gerardo Contento Cuenca
 
 <br><br><br>
 
-**Loja-Ecuador-2026**
+## Loja-Ecuador-2026
 
 </div>
 
